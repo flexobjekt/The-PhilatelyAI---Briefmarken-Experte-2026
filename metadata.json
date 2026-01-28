@@ -1,0 +1,7 @@
+{
+  "name": "The PhilatelyAI - Briefmarken Experte 2026",
+  "description": "Professionelle Identifizierung, Wertermittlung und Verwaltung von Briefmarken mittels KI und Experten-Netzwerk.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
